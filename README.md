@@ -10,7 +10,9 @@ Localidade: IFRN-CNAT-DIATINF
 
 Professor: [Leonardo Ataide Minora](https://github.com/leonardo-minora)
 
+Autor: [Laiz Fernanda](https://github.com/laiz234)
+
 ## Log do projeto
 | Data | Descrição |
 | --- | --- |
-
+| 2023 | Projeto Html |
